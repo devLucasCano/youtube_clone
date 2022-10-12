@@ -43,17 +43,3 @@ export const demoVideoTitle =
   "Arctic Monkeys - Do I Wanna Know?(Official Video)";
 export const demoProfilePicture =
   "http://dergipark.org.tr/assets/app/images/buddy_sample.png";
-
-{
-  /* <a href="https://ibb.co/7tmMsBS"><img src="https://i.ibb.co/F4TZRch/arctic-monkeys-do-i-wanna-know-clipe-696x388.jpg" alt="arctic-monkeys-do-i-wanna-know-clipe-696x388" border="0"></a> */
-}
-
-// back up save
-//   export const demoThumbnailUrl = "https://i.ibb.co/G2L2Gwp/API-Course.png";
-// export const demoChannelUrl = "/channel/UCmXmlB4-HJytD7wek0Uo97A";
-// export const demoVideoUrl = "/video/GDa8kZLNhJ4";
-// export const demoChannelTitle = "JavaScript & React";
-// export const demoVideoTitle =
-//   "Build and Deploy 5 JavaScript & React API Projects in 10 Hours - Full Course | RapidAPI";
-// export const demoProfilePicture =
-//   "http://dergipark.org.tr/assets/app/images/buddy_sample.png";
