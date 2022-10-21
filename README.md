@@ -1,5 +1,7 @@
 # Getting Started with Create React App
 
+- [youtube_clone](https://youtube-clone-lucas.netlify.app/) - O site está hospedado gratuitamente na Netlify
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
